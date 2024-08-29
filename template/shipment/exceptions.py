@@ -1,0 +1,2 @@
+class ShipmentException(RuntimeError):
+    pass
